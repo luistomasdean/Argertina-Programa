@@ -4,3 +4,6 @@ Respuestas Clase 2:
 3-4-No esta, por que faltan dos pasos 
 a-"git commit -m 'Primer commit con archivo nombre-archivo.txt'"
 b-"git push" para subir los cambios al repositorio remoto
+5. Modifique el archivo desde la interfaz web de Github, verifique que dicho cambio NO
+está aplicado localmente ¿Por qué no está?
+Respueta: No esta localmente, por que todabia no descargue el cambio.(pull)
