@@ -1,0 +1,6 @@
+Respuestas Clase 2:
+1-https://github.com/luistomasdean
+2---
+3-4-No esta, por que faltan dos pasos 
+a-"git commit -m 'Primer commit con archivo nombre-archivo.txt'"
+b-"git push" para subir los cambios al repositorio remoto
