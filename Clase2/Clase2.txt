@@ -8,7 +8,12 @@ b-"git push" para subir los cambios al repositorio remoto
 está aplicado localmente ¿Por qué no está?
 Respuesta: No esta localmente, por que todabia no descargue el cambio.(pull)
 6-Traje los cambios con pull-
+<<<<<<< HEAD
 7-hago el commit
 8 -se produce un  conflicto no permite modificacion
 solucion :cierro el archivo en linea y hago pull ,despues uso commit y los mando a github
 
+=======
+7-modifico el archivo en github
+8 
+>>>>>>> 9cccad64d1256abaed55de34e4fb60e8646ed58f
