@@ -8,4 +8,5 @@ b-"git push" para subir los cambios al repositorio remoto
 está aplicado localmente ¿Por qué no está?
 Respuesta: No esta localmente, por que todabia no descargue el cambio.(pull)
 6-Traje los cambios con pull-
-7-hago el commit
+7-hago el commit 
+8---
