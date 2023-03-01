@@ -14,6 +14,5 @@ Respuesta: No esta localmente, por que todabia no descargue el cambio.(pull)
 solucion :cierro el archivo en linea y hago pull ,despues uso commit y los mando a github
 
 =======
-7-modifico el archivo en github
-8 
+
 >>>>>>> 9cccad64d1256abaed55de34e4fb60e8646ed58f
