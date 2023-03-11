@@ -6,7 +6,7 @@ public class Ejerciciob {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int orden[] = new int[]{13, 12, 55};
+        int orden[] = new int[]{13, 12, 55,};
         String eleccion;
         orden = Arrays.stream(orden).sorted().toArray();
 

@@ -6,7 +6,7 @@ public class Ejercicio2 {
         for (int i = 0; i < mensaje.length(); i++) {
             char caracter = mensaje.charAt(i);
             if (Character.isLetter(caracter)) {
-                char desplazamiento = 1;
+                char desplazamiento = 2;
                 caracter = (char) ((caracter + desplazamiento - 'a') % 26 + 'a');
             }
             resultado += caracter;
